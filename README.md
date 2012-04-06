@@ -35,4 +35,4 @@ animate or not.
 
 ### Notes
 
-This is written in CoffeeScript but the compiled JavaScript (`jquery.hslider.js`) is included in the repo.
+This was written in CoffeeScript but the compiled JavaScript (`jquery.hslider.js`) is included in the repo.
